@@ -3,7 +3,7 @@ Component based on [Frotend Mentor challenge](https://www.frontendmentor.io/chal
 
 _Type of proyect: Practice_
 
-_Status: working_
+_Status: Done_
 
 ## Technologies
 - Html
